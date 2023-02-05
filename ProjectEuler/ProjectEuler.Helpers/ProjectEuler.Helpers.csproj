@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\ProjectEuler.Helpers\ProjectEuler.Helpers.csproj" />
-  </ItemGroup>
-
 </Project>
